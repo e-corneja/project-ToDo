@@ -86,17 +86,20 @@ body {
   background: #73d0ae;
   border-radius: 0.3em;
   padding: 5px;
+  cursor: pointer;
 }
 .completed-icon2 {
   width: 35px;
   background: rgb(232, 135, 135);
   border-radius: 0.3em;
   padding: 5px;
+  cursor: pointer;  
 }
 
 .icon {
     width: 35px;
     opacity: 50%;
+    cursor: pointer;
 }
 
 .completed-icon1:hover {
